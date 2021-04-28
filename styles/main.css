@@ -1,0 +1,60 @@
+/* VARIABLES */
+:root {
+  --first: #9c27b0;
+  --firstTwo: #89119d;
+  --second: #ffce00;
+  --secondTwo: rgb(233, 187, 2);
+  --white: #fff;
+  --black: #000;
+
+  --fuentePrincipal: "Staatliches", cursive;
+}
+/* STYLE FOR ALL DOCUMENT */
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; /*Agrego esto para igualar que un rem sea igual a 10px */
+}
+/* SNIPPET BOX MODEL */
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/** Globales **/
+body {
+  background-color: var(--primario);
+  font-size: 1.6rem;
+  line-height: 1.5; /*No le pongo pixeles para usar la base de la fuente */
+}
+.paragraph {
+  font-size: 1.8rem;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--white);
+}
+.link {
+  text-decoration: none;
+}
+.image {
+  width: 100%;
+}
+.container {
+  max-width: 120rem;
+  margin: 0 auto;
+}
+.title1,
+.title2,
+.title3 {
+  text-align: center;
+  color: var(--secundario);
+  font-family: var(--fuentePrincipal);
+}
+h1 {
+  font-size: 4rem;
+}
+h2 {
+  font-size: 3.2rem;
+}
+h3 {
+  font-size: 2.4rem;
+}
