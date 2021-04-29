@@ -20,3 +20,7 @@ Además estoy adquiriendo nuevos conocimientos relacionados con:
 - Crear aplicaciones CRUD con PHP y MySQL.
 - Crear aplicaciones seguras con PHP, Ajax y MySQL.
 - Crear un área de administración con AdminLTE, PHP y MySQL.
+
+Instructor:
+Juan Pablo De la torre Valdez
+Creador de Código Con Juan - Aprende Con Proyectos Reales
