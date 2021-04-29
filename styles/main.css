@@ -7,7 +7,7 @@
   --white: #fff;
   --black: #000;
 
-  --fuentePrincipal: "Staatliches", cursive;
+  --mainFont: "Staatliches", cursive;
 }
 /* STYLE FOR ALL DOCUMENT */
 html {
@@ -46,15 +46,54 @@ body {
 .title2,
 .title3 {
   text-align: center;
-  color: var(--secundario);
-  font-family: var(--fuentePrincipal);
+  color: var(--second);
+  font-family: var(--mainFont);
 }
-h1 {
+.title1 {
   font-size: 4rem;
 }
-h2 {
+.title2 {
   font-size: 3.2rem;
 }
-h3 {
+.title3 {
   font-size: 2.4rem;
+}
+/** Header **/
+.header {
+  display: flex;
+  justify-content: center;
+}
+.header__logo {
+  margin: 3rem 0;
+}
+/** Footer **/
+.footer {
+  background-color: var(--firstTwo);
+  padding: 1rem 0;
+  margin-top: 2rem;
+}
+.footer__text {
+  font-family: var(--mainFont);
+  text-align: center;
+  font-size: 2.2rem;
+}
+
+/** Navegacion **/
+.nav {
+  background-color: var(--firstTwo);
+  padding: 1rem 0;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+.nav__link {
+  text-decoration: none;
+  font-family: var(--mainFont);
+  color: var(--white);
+  font-size: 3rem;
+  /* With gap in flex I can make like I have right margin in nav__link */
+}
+.navegacion____link--activ,
+.navegacion__link:hover {
+  color: var(--second);
 }
