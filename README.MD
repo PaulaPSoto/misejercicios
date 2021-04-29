@@ -6,16 +6,17 @@ El curso se llama: Desarrollo Web Completo con HTML5, CSS3, JS, AJAX, PHP y MySQ
 
 En este curso estoy mejorando y practicando mis conocimientos de :
 
-Convertir y crear sus propios diseños en páginas web.
-Crear páginas web con HTML y CSS.
-Escribir código JavaScript y jQuery.
+- Convertir y crear sus propios diseños en páginas web.
+- Crear páginas web con HTML y CSS.
+- Escribir código JavaScript y jQuery.
+
 Además estoy adquiriendo nuevos conocimientos relacionados con:
 
-Crear sitios web dínamicos con PHP y MYSQL.
-Entender como funciona JavaScript y PHP.
-Aplicar a un empleo de Desarrollador Web Junior.
-Aprende AJAX, para crear páginas web dínamicas que cargaran información sin recargar la página.
-Agregar pagos de PayPal a tus sitios web.
-Crear aplicaciones CRUD con PHP y MySQL.
-Crear aplicaciones seguras con PHP, Ajax y MySQL.
-Crear un área de administración con AdminLTE, PHP y MySQL.
+- Crear sitios web dínamicos con PHP y MYSQL.
+- Entender como funciona JavaScript y PHP.
+- Aplicar a un empleo de Desarrollador Web Junior.
+- Aprende AJAX, para crear páginas web dínamicas que cargaran información sin recargar la página.
+- Agregar pagos de PayPal a tus sitios web.
+- Crear aplicaciones CRUD con PHP y MySQL.
+- Crear aplicaciones seguras con PHP, Ajax y MySQL.
+- Crear un área de administración con AdminLTE, PHP y MySQL.
