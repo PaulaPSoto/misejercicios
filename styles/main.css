@@ -140,10 +140,10 @@ body {
 }
 .graphic--shirt {
   grid-row: 2 / 3;
-  background-image: url(../images/grafico1.jpg);
+  background-image: url(./images/grafico1.jpg);
 }
 .graphic--node {
-  background-image: url(../images/grafico2.jpg);
+  background-image: url(./images/grafico2.jpg);
   grid-row: 8 / 9;
 }
 
